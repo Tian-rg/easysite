@@ -1,0 +1,159 @@
+p
+{
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+h1
+{
+	font-size: 24px;
+	margin-top: 10px;
+	margin-left:10px;
+	margin-right:10px;
+	font-style: normal;
+}
+h2
+{
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+a{
+	color:rebeccapurple;
+}
+.page_section_one
+{
+	background-color:beige;
+	border-color: teal;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+}
+.page_section_two
+{
+	background-color:mistyrose;
+	border-color: teal;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+}
+#logo_area
+{
+	position:relative;
+	left:70;
+	height: 100px;
+	width: 220px;
+	background-color: beige;
+}
+#logo_img
+{
+	position: relative;
+	top:8px;
+	left:25px;
+	border-radius: 4px;
+}
+#description
+{
+	position: absolute;
+	top:40px;
+	left:110px;
+	background-color: beige;
+	color: teal;
+	font-size: 36px;
+	font:serif;
+
+}
+#topic_area_one
+{
+	position:absolute;
+	top: 350px;
+	left:320px;
+	right:8px;
+	font-size: 24px;
+	text-align:left;
+	max-width: 200px;
+}
+#topic_area_two
+{
+	position:relative;
+	top: 350px;
+	left:140px;
+	right:8px;
+	font-size: 24px;
+	text-align:left;
+	max-width: 200px;
+}
+#search_area
+{
+	position:absolute;
+	left:24px;
+	top:176px;
+	background-color: white;
+	width: 200px;
+	height:50px;
+	border-radius: 4px;
+}
+#search_button
+{
+	background-color: lemonchiffon;
+	border:none;
+	border-radius: 4px;
+	color:black;
+	padding:5px, 5px;
+	text-align: center;
+	font-size:16px;
+	position: static;
+	right:50px;
+	margin-left:8px;
+}
+#search_input
+{
+	color:thistle;
+	border-radius:2px;
+	margin-left:6px;
+}
+#subject_area
+{
+	background-color: aqua;
+	position:absolute;
+	left: 24px;
+	top:250px;
+	width: 200px;
+	font-size:24px;
+	border-radius: 4px;
+}
+.article_list_area
+{
+	background-color: aqua;
+	position:absolute;
+	left: 24px;
+	top:300px;
+	width: 200px;
+	font-size:20px;
+	border-radius: 4px;
+}
+
+.article_content
+{
+	position:static;
+    background-color: mistyrose;
+	opacity: 0.9;
+    margin-top:20px;
+	margin-right: 10px;
+	margin-left:220px;
+	margin-bottom:80px;
+	font-size:58px;
+	padding: 10;
+}
+.other_link
+{
+	background-color: powderblue;
+	position:fixed;
+	bottom:12px;
+	left:12px;
+	height: 50px;
+	width:210px;
+	border-radius: 4px;
+}
